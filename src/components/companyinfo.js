@@ -12,4 +12,4 @@ Faseal Chatbot is a product of Faseal Technologies, a leading provider of innova
 We are constantly evolving and improving our services to meet the needs of our customers. Our chatbot is designed to provide you with the best possible experience, and we are always looking for ways to enhance its capabilities.
 
 Faseal CHatbot was developed by Abraham Ajetomobi, a software engineer with a passion for technology and innovation. He has a wealth of experience in developing cutting-edge solutions that meet the needs of businesses and individuals alike. With his expertise and dedication, Faseal Chatbot is poised to become a leader in the chatbot industry.
-We are excited to have you on board and look forward to helping you achieve your goals. Thank you for choosing Faseal Chatbot, and we hope you enjoy your experience with us!`;
+We are excited to have you on board and look forward to helping you achieve your goals. Thank you for choosing Faseal Chatbot, and we hope you enjoy your experience with us!.`; 
